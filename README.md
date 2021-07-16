@@ -4,9 +4,9 @@ Currently I often use Python or Processing Java to program in, but I use other l
 At the moment I'm planning a social media site, and hoping to start work on a blog which should be in my user repo.
 
 ### Contact details
-I can be contacted in the following ways:
-biran4454@gmail.com\n
-biran4454@protonmail.com (biran4454@pm.me)
+I can be contacted in the following ways:<br>
+biran4454@gmail.com<br>
+biran4454@protonmail.com (biran4454@pm.me)<br>
 biran4454#7467
 <!--
 **biran4454/biran4454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
