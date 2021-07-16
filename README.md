@@ -1,7 +1,7 @@
 ### About me
 I am a young student in the UK learning various programming languages and studying physics, mathematics, and computer science.
 Currently I often use Python or Processing Java to program in, but I use other languages if necessary.
-At the moment I'm planning a social media site, and hoping to start work on a blog which should be in my user repo.
+At the moment I'm planning a social media site, and hoping to start work on a blog.
 
 ### Contact details
 I can be contacted in the following ways:<br>
