@@ -1,5 +1,13 @@
-### Hi there 👋
+### About me
+I am a young student in the UK learning various programming languages and studying physics, mathematics, and computer science.
+Currently I often use Python or Processing Java to program in, but I use other languages if necessary.
+At the moment I'm planning a social media site, and hoping to start work on a blog which should be in my user repo.
 
+### Contact details
+I can be contacted in the following ways:
+biran4454@gmail.com
+biran4454@protonmail.com (biran4454@pm.me)
+biran4454#7467
 <!--
 **biran4454/biran4454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
