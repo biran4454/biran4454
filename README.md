@@ -27,6 +27,7 @@ I've joined github in 2018, and started using it in 2019.<br>
 I started learning Scratch programming in 2015, becoming comfortable in 2017. Started learning JS in late 2018 on Khan, followed by HTML and CSS basics on freecodecamp, became comfortable around spring 2019. Began learning C++ in 2018-2019, but had difficulty finding a good compiler and tutorial so stopped after learning (and forgetting) the basics.
 Been using Processing since 2019 and Python since 2020.
 Started using Lean (unfortunately) in 2021.
+My contribution skyline (pretty sparse) for 2020: https://skyline.github.com/biran4454/2020
 <!--
 **biran4454/biran4454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
