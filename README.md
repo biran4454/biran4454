@@ -28,6 +28,9 @@ I started learning Scratch programming in 2015, becoming comfortable in 2017. St
 Been using Processing since 2018 and Python since 2019. Completed the programming project designed for gcse computer science a year early in a quarter of the alloted time, because I was annoyed at being patronised by my teacher.
 Started using Lean (unfortunately) in 2021.<br><br>
 My contribution skyline (pretty sparse) for 2020: https://skyline.github.com/biran4454/2020
+<p align="center">
+<a href=""><img src="https://github-readme-stats-utensil.vercel.app/api?username=biran4454&show_icons=true" alt="Github stats" /></a>
+</p>
 <!--
 **biran4454/biran4454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
