@@ -1,6 +1,6 @@
 ### About me
 I am a young student in the UK learning various programming languages and studying physics, mathematics, and computer science.
-Currently I often use Python or Processing Java to program in, but I use other languages if necessary.<br>
+Currently I often use Python, C++, or Processing Java to program in, but I use other languages if necessary.<br>
 At the moment I'm planning a social media site, helping others with python code, and perhaps collaborating in an AI glider!
 
 ### Contact details
@@ -14,7 +14,7 @@ Most of my projects eventually die, which is the same for everyone.
 Here is the current status of some of my projects:<br>
 <ul>
   <li>Blog - one page published (mostly for my own use - I'm not naive enough to expect other people to read it)
-  <li>AI Glider - not started
+  <li>AI Glider - working on
   <li>Planet simulation (no physics) - project finished
   <li>Planet simulation (with physics) - currently requiring further research to sort out physics engine
   <li>Python adventure game - project died after a while, but was just a test anyway. Still quite good though imo
