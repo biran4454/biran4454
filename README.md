@@ -9,7 +9,7 @@ biran4454@gmail.com<br>
 biran4454@protonmail.com (biran4454@pm.me)<br>
 Biran4454#7467 on discord
 
-### My projects
+### My main projects
 Most of my projects eventually die, which is the same for everyone.
 Here is the current status of some of my projects:<br>
 <ul>
